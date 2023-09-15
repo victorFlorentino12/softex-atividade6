@@ -29,7 +29,7 @@ a{
     font-size: 15px;
 }
 main{
-    background-color: rgb(111, 178, 180);
+    background-color: rgb(19, 52, 217);
     padding: 40px 0;
     margin: 0px;
     width: 100%;
@@ -43,6 +43,7 @@ div{
 .tituloH3{
     margin-bottom: 20px;
     font-size: 23px;
+    color:white;
 }
 h3:hover{
     font-size: 50px;
@@ -57,3 +58,4 @@ footer{
     color: white;
     padding-top: 20px;
 }
+
